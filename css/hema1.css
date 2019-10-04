@@ -1,0 +1,11 @@
+*{
+    padding:0px;
+    margin: 0px;
+    /* 消除边距 */
+}
+.header{
+    width: 100px;
+    /*  宽100像素*/
+    height: 80%；
+    /* 高80像素 */
+}
